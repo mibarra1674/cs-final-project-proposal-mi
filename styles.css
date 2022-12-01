@@ -92,8 +92,22 @@
 
 h1 {
     text-align: center;
+    border-style: outset;
+    border-width: 2in;
+    border-right: 2in;
     border: 4px solid rgb(0, 21, 255);
     padding: 40px;
     background-color: white;
     text-shadow: grey 100em;
+}
+
+img {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    border-style: outset; 
+    border-color: #1008ff;
+    border-width: .5cm;
 }
