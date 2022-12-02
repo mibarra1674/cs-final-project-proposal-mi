@@ -111,3 +111,18 @@ h2 {
     border-color: #1008ff;
     border-width: .5cm;
 }
+
+h5 {
+    text-align: center;
+    font-size: 1rem;
+}
+
+.nav_footer{
+    list-style: none;
+}
+
+hr {
+    font-size: medium;
+    width: 100vmax;
+    text-emphasis-color: black;
+}
